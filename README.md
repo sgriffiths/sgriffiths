@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sgriffiths
-- 👀 I’m interested in SRE, Automation and Performance Engineering
-- 🌱 I’m currently working on a cloud migration project on kubernetes (AKS and GKE)
+- 👀 I’m interested in SRE, AI, Chaos and Performance Engineering
+- 🌱 I’m currently working on an Observability platform project
 - 💞️ I’m looking to collaborate on anything around reliability engineering or software delivery optimization
 - 📫 How to reach me: scott@genai.com.au
