@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sgriffiths
-- 👀 I’m interested in SRE, AI, Chaos and Performance Engineering
+- 👀 I’m interested in SRE, AI, Chaos,  Performance Engineering and Crypto
 - 🌱 I’m currently working on an Observability platform project
-- 💞️ I’m looking to collaborate on anything around reliability engineering or software delivery optimization
+- 💞️ I’m looking to collaborate on anything around reliability engineering or software delivery optimisation
 - 📫 How to reach me: scott@genai.com.au
