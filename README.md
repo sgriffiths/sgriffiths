@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sgriffiths
 - 👀 I’m interested in SRE, AI, Chaos,  Performance Engineering and Crypto
-- 🌱 I’m currently working on an Observability platform project
-- 💞️ I’m looking to collaborate on anything around reliability engineering or software delivery optimisation
+- 🌱 I’m currently working on an Observability platform project, Solana Rewards Tax reporting
+- 💞️ I’m looking to collaborate on anything around reliability engineering,  software delivery optimisation. AI Agent safety
 - 📫 How to reach me: scott@genai.com.au
