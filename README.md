@@ -1,15 +1,22 @@
-### 👋 Hi, I’m @sgriffiths
+# Scott Griffiths
 
-**Lead Engineer at Genai.** Working with the business to increase developer experience and mitigate risk by employing various AI Agent and automation strategies.
+Forward deployed AI engineer. I build agent systems, measure whether they work, and get them through enterprise governance.
 
-- 👀 Interested in SRE, AI, Chaos & Performance Engineering, and Crypto
-- 💞️ Looking to collaborate on reliability engineering, software delivery optimisation, and AI Agent safety
-- 📫 How to reach me: scott@genai.com.au
+## What I'm building
 
----
+- **[Open Agent Spec](https://github.com/prime-vector/open-agent-spec)**: co-author and maintainer. A declarative standard for defining agents as code, with typed outputs, sandboxed tools and behavioural contracts validated in CI.
+- **[PrimeVector](https://primevector.com.au)**: co-founder. Behavioural contracts and guardrails for AI agents, across any framework.
+- **Response Engineering** (private, happy to walk through it): a six-agent incident investigation system on Claude. Every claim between agents carries a confidence level and a falsifying test, and an evaluation harness with deterministic metrics and an LLM judge is diffed in CI.
+- **[SolanaRWA](https://solanarwa.app)** and **[SolanaStake](https://solanastake.app)**: solo production SaaS for on-chain portfolio and tax reporting.
 
-### 🚀 Projects
+## How I currently work
 
-- **[SolanaRWA](https://solanarwa.app)** — Portfolio dashboard and tax reporting for tokenized real-world assets (RWAs) on Solana. Auto-detection, performance tracking, income recording, multi-jurisdiction depreciation (AU/US/UK/CA), and tax report generation.
-- **[SolanaStake.app](https://solanastake.app)** — Solana staking rewards tax reporting. Tracks liquid staking tokens (LSTs) and native staking income with jurisdiction-aware capital gains and report exports.
-- **[Open Agent Spec](https://github.com/sgriffiths/open-agent-spec)** — Declarative YAML standard for defining what an AI agent is: its intelligence, memory, tasks, and behavioural contracts for governed, risk-aware deployment. Work done with [Prime Vector](https://primevector.com.au/) on responsible, scalable AI agent tooling.
+I run more than six projects in parallel through one agent control plane. A self-hosted task board is exposed to agents over MCP, and tags are the queue, so a tag swap is the handoff and every rerun is safe. Claude and Codex build. Grok reviews every push inside sandboxed worktrees, and an independent model gates every merge, reviewing cold.
+
+## Interested in
+
+Agent evaluation, AI safety and guardrails, reliability engineering, and getting AI past security review and into production.
+
+## Elsewhere
+
+[scott@genai.com.au](mailto:scott@genai.com.au) · [LinkedIn](https://linkedin.com/in/scgriffiths) · [PrimeVector](https://primevector.com.au) · [Genai](https://www.genai.com.au)
